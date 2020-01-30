@@ -13,7 +13,7 @@ Additional plans to include QuakeWorld and Quake 3 support in the near future.
 
 This section covers usage by end users via client browsers, and server administrators configuring their game servers to point to this master server.
 
-See [Deployment](https://github.com/quakeservices/documentation/deployment.md) for information about deploying this project.
+See [Deployment](https://github.com/quakeservices/documentation/blob/master/deployment.md) for information about deploying this project.
 
 ### Client browsers
 
