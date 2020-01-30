@@ -9,7 +9,6 @@ Additional plans to include QuakeWorld and Quake 3 support in the near future.
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-
 ## Usage
 
 This section covers usage by end users via client browsers, and server administrators configuring their game servers to point to this master server.
@@ -18,7 +17,7 @@ See [Deployment](https://github.com/quakeservices/documentation/blob/master/depl
 
 ### Client browsers
 
-[qstat](https://github.com/multiplay/qstat) (aka quakestat) is currently the only client server browser this withwhich this application has been tested.
+[qstat](https://github.com/multiplay/qstat) (aka quakestat) is currently the only client server browser with which this application has been tested.
 However any other client that allows the user to specify a master server should work.
 
 The following command will request the list of servers:
