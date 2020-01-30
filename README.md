@@ -1,24 +1,17 @@
 # Project Overview
 
-Initial scope for this project is to impliment a master server for Quake 2 dedicated servers; whether they are Vanilla, Q2Pro, or R1Q2.
+Initial scope for this project is to implement a master server for Quake 2 dedicated servers; whether they are Vanilla, Q2Pro, or R1Q2.
 Additional plans to include QuakeWorld and Quake 3 support in the near future.
-
-## Table of Contents
 
 - [Usage](#usage)
   - [Client Browsers](#client-browsers)
   - [Server Administrators](#server-administrators)
 - [Contact](#contact)
-- [Deployment](https://github.com/quakeservices/documentation/deployment.md)
-  - [infrastructure](https://github.com/quakeservices/infrastructure)
-  - [master](https://github.com/quakeservices/master_deploy)
-  - [web-frontend](https://github.com/quakeservices/web-frontend_deploy)
-  - [web-backend](https://github.com/quakeservices/web-backend_deploy)
 
 
 ## Usage
 
-This section covers usage by end users.
+This section covers usage by end users via client browsers, and server administrators configuring their game servers to point to this master server.
 
 See [Deployment](https://github.com/quakeservices/documentation/deployment.md) for information about deploying this project.
 
